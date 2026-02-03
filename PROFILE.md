@@ -20,5 +20,9 @@ Outside work, Jeff is a Brazilian Jiu-Jitsu black belt and enjoys adventure/trav
 - Automation / AI-enabled automation
 - Public speaking
 
+## Nova (assistant) assets
+- Pixel avatar (generated locally): `avatars/nova-pixel.png`
+- Neon monogram avatar (generated locally): `avatars/nova-cechinel.png`
+
 ## Sources used (quick)
 - Google results for "Jeff Cechinel" (LinkedIn, Cyber Security & Cloud Expo speaker page, TechHQ, TheOrg, Medium, Instagram)
