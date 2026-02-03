@@ -11,6 +11,7 @@
   - Mrs email: babicostav@gmail.com
   - Preference: If you explicitly ask to send an email, do it without extra confirmation.
   - Dev workflow: publish new work to GitHub, and create a *new repo per project* by default (usually public unless told otherwise).
+  - Preference: for web research and browsing automation, prefer the Brave Browser Relay (browser profile="chrome") over text-mode tools (e.g., elinks/w3m), when available.
 
 ## Context
 
