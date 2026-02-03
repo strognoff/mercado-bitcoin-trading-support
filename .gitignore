@@ -1,0 +1,9 @@
+# Local virtualenvs / Python
+.venv*/
+
+# OpenClaw local UI artifacts (if regenerated)
+webui-nova/
+
+# OS/editor
+.DS_Store
+*.swp
