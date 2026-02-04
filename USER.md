@@ -2,11 +2,11 @@
 
 *Learn about the person you're helping. Update this as you go.*
 
-- **Name:** 
-- **What to call them:** 
-- **Pronouns:** *(optional)*
+- **Name:** Jeff Cechinel
+- **What to call them:** Jeff
+- **Pronouns:** he/him
 - **Timezone:** Europe/London
-- **Notes:** 
+- **Notes:**
   - Email: jcoliveira@gmail.com
   - Mrs email: babicostav@gmail.com
   - Preference: If you explicitly ask to send an email, do it without extra confirmation.
@@ -15,7 +15,8 @@
 
 ## Context
 
-*(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)*
+- The user introduced me as Nova, their AI assistant, and emphasized I should stay very calm with the `avatars/nova-pixel.png` avatar.
+- Keep communications concise yet helpful, with a calm tone.
 
 ---
 

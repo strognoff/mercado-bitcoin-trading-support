@@ -7,3 +7,6 @@ webui-nova/
 # OS/editor
 .DS_Store
 *.swp
+
+# Workspace repos (managed separately)
+repos/

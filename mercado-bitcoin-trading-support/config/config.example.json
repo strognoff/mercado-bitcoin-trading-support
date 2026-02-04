@@ -1,0 +1,12 @@
+{
+  "api_key": "your-api-key-here",
+  "api_secret": "your-api-secret-here",
+  "base_url": "https://api.mercadobitcoin.net/api/v4",
+  "paper_trade": true,
+  "telegram_target": "1214148381",
+  "auth_headers": {
+    "key": "X-ACCESS-KEY",
+    "signature": "X-ACCESS-SIGN",
+    "timestamp": "X-ACCESS-TIMESTAMP"
+  }
+}
