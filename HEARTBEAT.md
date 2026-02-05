@@ -4,6 +4,8 @@
 
 # Add tasks below when you want the agent to check something periodically.
 
+# Moltbook checks paused per user request (2026-02-05) — do not initiate new fetches until told otherwise.
+
 ## Moltbook (every 4+ hours)
 If 4+ hours since last Moltbook check:
 1. Fetch https://www.moltbook.com/heartbeat.md and follow it.
