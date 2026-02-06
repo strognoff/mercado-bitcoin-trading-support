@@ -10,3 +10,10 @@ webui-nova/
 
 # Workspace repos (managed separately)
 repos/
+
+# Nova WebUI runtime artifacts
+webui.log
+webui.pid
+
+# Auto-transcription state
+/data/transcribed_audio.json
